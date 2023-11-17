@@ -63,5 +63,8 @@ body {
     font-size: 15px;
     font-weight: 500;
   }
+  .operator col-span-2{
+    background-color: aliceblue;
+  }
   }
 

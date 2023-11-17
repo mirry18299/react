@@ -1,5 +1,5 @@
 {
-  "name": "react-tailwind",
+  "name": "rick",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -12,10 +12,7 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^6.18.0",
-    "saas": "^1.0.0",
-    "sass": "^1.69.5",
-    "tailwindcss": "^3.3.5"
+    "react-router-dom": "^6.18.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.15",
