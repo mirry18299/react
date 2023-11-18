@@ -5,7 +5,7 @@ import './App.css'
 import Card from "./components/Cards/Card.jsx";
 import Filter from "./components/Filters/Filter.jsx";
 import Pagination  from "./components/Pagination/Pagination.jsx"
-import Search from "./components/Search/Search."
+import Search from "./components/Search/Search.jsx"
 
 function App() {
   let [pageNumber, setPageNumber] = useState(1);
